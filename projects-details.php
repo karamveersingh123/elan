@@ -360,7 +360,7 @@
          <div class="card h-100 shadow-sm border-0">
             <img src="https://cdn.pixabay.com/photo/2017/05/04/16/37/meeting-2284501_1280.jpg" class="card-img-top" alt="3 BHK + Study Floor Plan">
             <div class="card-body">
-               <h5 class="card-title fw-bold">3 BHK + Study</h5>
+               <h5 class="card-title fw-bold">3 BHK + Study </h5>
                <p class="card-text">Super Area: 1700 Sq. Ft</p>
                <a href="https://cdn.pixabay.com/photo/2017/05/04/16/37/meeting-2284501_1280.jpg" target="_blank" class="btn btn-sm text-white" style="background:#c07a52; border-radius:2rem;">
                   <i class="fas fa-search-plus me-1"></i> View Plan
